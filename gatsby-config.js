@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Digital Income`,
     author: {
       name: `Digital Income`,
       summary: `Passive income should be your Goal. Financial freedom should be your Path. Wealth should be your life style`,
