@@ -10,8 +10,9 @@
   --maxWidth-2xl: 42rem;
   --maxWidth-3xl: 48rem;
   --maxWidth-4xl: 56rem;
+  --maxWidth-page: 1200px;
   --maxWidth-full: "100%";
-  --maxWidth-wrapper: var(--maxWidth-4xl);
+  --maxWidth-wrapper: var(--maxWidth-page);
   --spacing-px: "1px";
   --spacing-0: 0;
   --spacing-1: 0.25rem;
@@ -54,7 +55,8 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: #f16334;
+  --color-secondary: #26282d;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -228,10 +230,10 @@ table thead tr th {
 }
 
 /* Link */
-
+/* 
 a {
   color: var(--color-primary);
-}
+} */
 
 a:hover,
 a:focus {
@@ -251,7 +253,8 @@ a:focus {
 }
 
 .global-header {
-  margin-bottom: var(--spacing-12);
+  background: #f16334;
+  color: #fff;
 }
 
 .main-heading {
@@ -270,7 +273,7 @@ a:focus {
 
 .post-list-item h2 {
   font-size: var(--fontSize-4);
-  color: var(--color-primary);
+  /* color: var(--color-primary); */
   margin-bottom: var(--spacing-2);
   margin-top: var(--spacing-0);
 }
