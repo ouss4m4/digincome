@@ -40,9 +40,9 @@ const Header = () => {
         </div>
         <nav role="navigation">
           <ul className="nav-list">
-            <li class="nav-item"><a href="#">Affiliate Marketing</a></li>
-            <li class="nav-item"><a href="#">eCommerce</a></li>
-            <li class="nav-item"><a href="#">Day Trading</a></li>
+            <li className="nav-item"><a href="#">Affiliate Marketing</a></li>
+            <li className="nav-item"><a href="#">eCommerce</a></li>
+            <li className="nav-item"><a href="#">Day Trading</a></li>
           </ul>
         </nav>
       </div>

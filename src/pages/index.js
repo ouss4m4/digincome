@@ -4,7 +4,8 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-
+import FluidImg from "../components/Images/FluidIMG"
+import "../styles/index.css"
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
@@ -38,14 +39,20 @@ const BlogIndex = ({ data, location }) => {
                 itemType="http://schema.org/Article"
               >
                 <header>
-                  <h2>
+                  <Link to={post.fields.slug} itemProp="url">
+                    <div className="heroimage">
+                      <FluidImg filename={post.frontmatter.heroimage} />
+                    </div>
+                  </Link>
+
+                  <h2 className="headline">
                     <Link to={post.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small>{post.frontmatter.date}</small>
+                  <small className="date">{post.frontmatter.date}</small>
                 </header>
-                <section>
+                <section className="description">
                   <p
                     dangerouslySetInnerHTML={{
                       __html: post.frontmatter.description || post.excerpt,
@@ -81,6 +88,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          heroimage
         }
       }
     }
