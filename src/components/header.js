@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 import "./header.css"
 
@@ -34,15 +34,22 @@ const Header = () => {
     <header id="header" role="banner">
       <div className="inner" role="navigation">
         <div className="site-logo">
-          <a className="url" href="https://digincome.com/">
+          <Link className="url" to="/">
+            {" "}
             Digital Income
-          </a>
+          </Link>
         </div>
         <nav role="navigation">
           <ul className="nav-list">
-            <li className="nav-item"><a href="#">Affiliate Marketing</a></li>
-            <li className="nav-item"><a href="#">eCommerce</a></li>
-            <li className="nav-item"><a href="#">Day Trading</a></li>
+            <li className="nav-item">
+              <Link to="/affiliate-marketing">Affiliate Marketing</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/ecom">eCommerce</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/trading">Day Trading</Link>
+            </li>
           </ul>
         </nav>
       </div>
