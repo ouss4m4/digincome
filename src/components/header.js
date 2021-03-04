@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 import "./header.css"
@@ -28,8 +28,8 @@ const Header = () => {
     }
   `)
 
+  const [expanded, toggleExpanded] = useState(false)
   const logo = data?.logo?.childImageSharp?.fixed
-
   return (
     <header id="header" role="banner">
       <div className="inner" role="navigation">
@@ -48,6 +48,37 @@ const Header = () => {
               <Link to="/ecom">eCommerce</Link>
             </li>
             <li className="nav-item">
+              <Link to="/trading">Day Trading</Link>
+            </li>
+          </ul>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="more"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            onClick={() => toggleExpanded(!expanded)}
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M4 6h16M4 12h16M4 18h16"
+            />
+          </svg>
+
+          <ul
+            className={
+              expanded ? "nav-list-secondary expanded" : "nav-list-secondary"
+            }
+          >
+            <li className="nav-item-second">
+              <Link to="/affiliate-marketing">Affiliate Marketing</Link>
+            </li>
+            <li className="nav-item-second">
+              <Link to="/ecom">eCommerce</Link>
+            </li>
+            <li className="nav-item-second">
               <Link to="/trading">Day Trading</Link>
             </li>
           </ul>
