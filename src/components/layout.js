@@ -26,12 +26,12 @@ const Layout = ({ location, title, children }) => {
       <Header />
       <div className="global-wrapper" data-is-root-path={isRootPath}>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Blog by
-          {` `}
-          <a href="https://www.digincome.com">Digital Income</a>
-        </footer>
       </div>
+      <footer>
+        © {new Date().getFullYear()}, Blog by
+        {` `}
+        <a href="https://www.digincome.com">Digital Income</a>
+      </footer>
     </div>
   )
 }
