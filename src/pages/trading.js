@@ -1,11 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import FluidImg from "../components/Images/FluidIMG"
-import "../styles/topic.css"
 
 const Trading = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
