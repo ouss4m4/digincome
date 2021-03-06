@@ -13,42 +13,39 @@ const AffiliatePage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Affiliate Marketing Guides & Articles" />
+      <SEO title="Affiliate Marketing Guides" />
       <div className="inner">
-        <ol
-          itemProp="list"
-          className="topic-list"
-          style={{ listStyle: `none` }}
-        >
+        <ol className="articles-wrap" style={{ listStyle: `none` }}>
           {posts.map((post, index) => {
             const title = post.frontmatter.title || post.fields.slug
 
             return (
-              <li key={post.fields.slug} className="topic-item">
-                <Link
-                  className="topic-link"
-                  to={post.fields.slug}
-                  itemProp="url"
-                >
+              <li
+                key={post.fields.slug}
+                className={
+                  index % 2 === 0 ? "post-list-item even" : "post-list-item odd"
+                }
+              >
+                <Link to={post.fields.slug} itemProp="url">
                   <article itemScope itemType="http://schema.org/Article">
                     <header>
-                      <div className="topic-image">
+                      <div className="heroimage">
                         <FluidImg filename={post.frontmatter.heroimage} />
                       </div>
 
-                      <h2 className="topic-headline">
+                      <h2 className="headline">
                         <span itemProp="headline">{title}</span>
                       </h2>
-                      <small itemProp="date" className="date">{post.frontmatter.date}</small>
+                      <small className="date">{post.frontmatter.date}</small>
                     </header>
-                    <section className="description">
+                    {/* <section className="description">
                       <p
                         dangerouslySetInnerHTML={{
                           __html: post.frontmatter.description || post.excerpt,
                         }}
                         itemProp="description"
                       />
-                    </section>
+                    </section> */}
                   </article>
                 </Link>
               </li>
