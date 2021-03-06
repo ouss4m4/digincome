@@ -3,7 +3,7 @@ module.exports = {
     title: `Digital Income`,
     author: {
       name: `Digital Income`,
-      summary: `Passive income should be your Goal. Financial freedom should be your Path. Wealth should be your life style`,
+      summary: `Financial Freedom should be your Goal. Passive income should be your Path. Digital Marketing is your guide`,
     },
     description: `be it eCommerce, Affiliate Marketing, or Day Trading. We Got you covered with Guides, Tips and Tricks to start earning as soon as possible. Pick your favorite niche and Start building your digital career now .`,
     siteUrl: `https://digincome.com`,
@@ -33,7 +33,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 900,
             },
           },
           {
