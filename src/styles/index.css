@@ -16,7 +16,7 @@
   -webkit-box-shadow: 0 3px 8px 0 rgb(54 57 73 / 5%);
   box-shadow: 0 3px 8px 0 rgb(54 57 73 / 5%);
   margin-bottom: 50px;
-  max-width: 460px;
+  width: 460px;
 }
 .post-list-item:hover {
   -webkit-box-shadow: 0 29px 60px 0 rgb(54 57 73 / 9%);
