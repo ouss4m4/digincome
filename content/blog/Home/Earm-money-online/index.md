@@ -3,7 +3,7 @@ title: Digital Income Start
 date: "2021-03-01T22:12:03.284Z"
 description: "We have a lot of things coming your way ! stay tuned"
 category: "trading"
-heroimage: stocks
+heroimage: Stonks.png
 ---
 
 This is my first post on my new Digital Income blog! How exciting!
