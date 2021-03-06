@@ -1,6 +1,5 @@
 import React, { useState } from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
-import Image from "gatsby-image"
 import "./header.css"
 
 const Header = () => {
@@ -29,7 +28,7 @@ const Header = () => {
   `)
 
   const [expanded, toggleExpanded] = useState(false)
-  const logo = data?.logo?.childImageSharp?.fixed
+  //const logo = data?.logo?.childImageSharp?.fixed
   return (
     <header id="header" role="banner">
       <div className="inner" role="navigation">
