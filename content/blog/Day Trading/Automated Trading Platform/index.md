@@ -1,12 +1,14 @@
 ---
 title: Automated Trading Platform
-date: "2021-03-01T22:12:03.284Z"
+date: "2021-03-04"
 description: "If you want something done right. Do it yourself. but sometimes you just get the expert to do it under your supervision. This is the Platform i will tell you all about"
 category: "trading"
 heroimage: mt2.png
 ---
 
-as the MT2 website states: "Trade Binary Options automatically based on your MetaTrader indicators, or copy world’s top-performing traders signals on real time."
+![./mt2-dashboard.png](./mt2dashboard.PNG)
+
+MT2 website states: "Trade Binary Options automatically based on your MetaTrader indicators, or copy world’s top-performing traders signals on real time."
 this platform is really the World class binary options robot. i tested it, and now let me tell you all about this software and how it works.
 
 # MT2 Trading Platform
