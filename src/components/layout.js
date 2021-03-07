@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import Header from "./header"
+import Footer from "./footer/footer"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -27,11 +28,7 @@ const Layout = ({ location, title, children }) => {
       <div className="global-wrapper" data-is-root-path={isRootPath}>
         <main>{children}</main>
       </div>
-      <footer>
-        © {new Date().getFullYear()}, Blog by
-        {` `}
-        <a href="https://www.digincome.com">Digital Income</a>
-      </footer>
+     <Footer />
     </div>
   )
 }
