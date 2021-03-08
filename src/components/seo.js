@@ -72,7 +72,8 @@ const SEO = ({ description, lang, meta, title, keywords }) => {
         {
           name: `keywords`,
           content:
-            keywords || `nft,nfts,non fungible tokens,non fungile,fungible`,
+            keywords ||
+            `nft,nfts,non fungible tokens,non fungile,fungible,crypto art,crypto`,
         },
       ].concat(meta)}
     >

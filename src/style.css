@@ -300,3 +300,8 @@ a:focus {
     list-style-position: inside;
   }
 }
+.center-it {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

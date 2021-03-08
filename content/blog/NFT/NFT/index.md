@@ -57,7 +57,7 @@ Now you may wonder why someone would buy a tweet everyone else can just login an
 
 I congratulate you if you are reading about NFTs at this time. this means you are aware of what is happening in the market. NFTs are here to stay ! and you should stay up to date if you want to have a share of the huge market rising up !
 
-I kept this article brief just to clarify what a token is and what are NFTs. now i advise you to read this article :<a href="/NFT/Buying/Trading%20NFT/"> How To Start buying/trading NFTs</a>
+I kept this article brief just to clarify what a token is and what are NFTs. now i advise you to read this article :<a href="/NFT/Trading%20NFT/"> Why You Should Get Into NFTs</a>
 
 if there is something you still have your doubts about. please leave it in a comment. i will answer it for you. or write a new article about it. Whatever is your level of comprehension at the moment. stay in NFTs. Do not turn away from this new gold rush !
 
