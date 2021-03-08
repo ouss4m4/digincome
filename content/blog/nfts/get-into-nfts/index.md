@@ -1,13 +1,13 @@
 ---
 title: Why You Should Get Into NFTs
-date: "2021-03-08T22:12:03.284Z"
+date: "2021-03-07T22:12:03.284Z"
 description: "Artist, Buyer, Collector, or a day trader. whatever it is . you need to get into NFTs now ! and here is why "
 category: "nft"
 heroimage: Stonks.png
 keywords: "crypto art,how to trade nfts,how to sell nft,how to buy nft,sell nft,buy nft,trade nft"
 ---
 
-Now that you know what <a href="/NFT/NFT/"> NFTs </a> are. it is time to start digging and get familiar with the market. in this short article i will show you how much people are willing to spend for an Original art. and why it concerns you.
+Now that you know what <a href="/nfts/what-is-nft/"> NFTs </a> are. it is time to start digging and get familiar with the market. in this short article i will show you how much people are willing to spend for an Original art. and why it concerns you.
 
 ## NFT market is on fire
 
@@ -77,7 +77,7 @@ to start trading NFTs You need ETH and an ethereum wallet to get started. The mo
 
 ## Conclusion
 
-Get into NFTs Now! call it crypto art or whatever you like. just Get in. Now. go get that ethereum wallet on Metamask.io and checkout the market. If you are lost on how to start trading. check out this article.
+Get into NFTs Now! call it crypto art or whatever you like. just Get in. Now. go get that ethereum wallet on Metamask.io and checkout the market. If you are lost on how to start trading. check out this article. <a href="/nfts/how-to-start/"> How To Start NFTs </a>
 
 <!--
 
