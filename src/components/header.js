@@ -38,7 +38,8 @@ const Header = () => {
             Digital Income
           </Link>
         </div>
-        <nav role="navigation">
+        <p className="nav-list">Stop Crying Over Bitcoin, Get into NFT</p>
+        {/* <nav role="navigation">
           <ul className="nav-list">
             <li className="nav-item">
               <Link to="/affiliate-marketing">Affiliate Marketing</Link>
@@ -81,7 +82,7 @@ const Header = () => {
               <Link to="/trading">Day Trading</Link>
             </li>
           </ul>
-        </nav>
+        </nav> */}
       </div>
     </header>
   )
