@@ -14,12 +14,13 @@ const BlogPostTemplate = ({ data, location }) => {
   const { twitterHandle, title, url } = data.site.siteMetadata
   const slug = data.markdownRemark.fields.slug
   const picture = post.frontmatter.heroimage
-
+  const keywords = post.frontmatter.keywords
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        keywords={keywords}
       />
       <Share
         round={true}
