@@ -38,28 +38,39 @@ So when you are on the market, ETH is your currency, and MetaMask is your wallet
 ## NFTs Markets
 
 There are several marketplaces that have popped up around NFTs, which allow people to buy and sell. These include OpenSea, Rarible, and Grimes’ choice, Nifty Gateway, but there are plenty of others.
+<a href="https://opensea.io?ref=0x008d8c1adf0ece93d7a4464854c50590e0c3f0db">
+
+![OpenSea](./opensea.jpg)
+
+</a>
 
 - <strong> [OpenSea](https://opensea.io?ref=0x008d8c1adf0ece93d7a4464854c50590e0c3f0db) </strong> -The first and biggest peer-to-peer NFT marketplace for crypto goods. You can think of it as eBay on the blockchain. my personal favorite i am always there spying on new items and recent purchases. Items available include collectibles, game items, and other virtual goods secured by a blockchain.you can buy, sell, and trade any of these items with anyone in the world. you should check the it out [here](https://opensea.io?ref=0x008d8c1adf0ece93d7a4464854c50590e0c3f0db)
+
+![rarible](./rarible.png)
 
 - <strong> Rarible </strong>- similar to sites like OpenSea. It’s also a platform for creating NFTs. You can go to Rarible with content you own such as a digital image or motion graphic and create an NFT and sell it. you can create multiple NFTs for one single image and sell it a multitude of times. Or, instead, distribute just a single item which is then deemed Rarer. Furthermore, you can set a percentage to receive on lifetime re-sales.
 
 Buyers can purchase NFTs and build a portfolio. Some are building personal portfolios of what they personally like, whilst others are building a collection of art they see future value in.
 
+![super-rare](./super-rare.png)
+
 - <strong> SuperRare </strong>- SuperRare is a social platform that encourages the creation and collection of crypto art. Founded by John Crain, Chief Executive of Pixura, and Jonathan Perkins, Chief Product Officer of Pixura. SuperRare has worked with artists since its conception and makes a point of listening to the artist and collector’s needs.
 
 It could be argued that SuperRare is the high end equivalent to Rarible. Entry barriers are higher and artists must submit their works for approval before they are listed. Whereas on rarible, anyone can get involved.
 
-- <strong>Atomic Assets</strong>- Atomic Assets is a sub-section of the Atomic Hub specifically for marketplace listings of the NFTs hosted on WAX. NFTs such as Street Fighter, Cogs, and Blockchain Heroes. The marketplace has a familiar layout and users need to sign up for a WAX cloud wallet or alternatively sign in with Anchor or Scatter.
-
-The WAX blockchain has staked a serious claim on the NFT sector having already completed many sold-out campaigns throughout 2020 in partnership with brands like Topps, Blockchain Heroes and Street Fighter.
+![known-origin](./known-origin.png)
 
 - <strong> Known Origin </strong>- Known Origin empowers artists & designers to create, discover and own rare digital artwork all secured by the Ethereum blockchain. Artists can submit digital artwork as a jpg or Gif to the KnownOrigin gallery. All files are held decentrally on IPFS. All assets are given unique identifiers that can be tracked.
 
 Known Origin <strong> focuses on digital art</strong> so there is no point going here to look for Cryptopunks or Avastars for example. Think of the items on sale here as you would those at an art gallery.
 
+![axies](./axies.png)
+
 - <strong>Axie Marketplace</strong> Axie Infinity is a Pokemon-inspired digital pet universe where players use their cute characters called Axies in various games. The Axie Infinity Universe highlights the benefits of blockchain technology through a “Play to Earn” gameplay model and a player-owned economy.
 
 Over time, the price can go up or down from the start price to the end price, depends on the seller’s intention. Other players have to be well-calculated to take the chance to buy the desired Axies from sellers.
+
+![decentraland](./decentraland.png)
 
 - <strong> Decentraland Marketplace </strong> -Decentraland is a decentralized virtual reality platform powered by the Ethereum blockchain. Within the Decentraland world, users can create, experience, and monetize what they build and what they own.
 
