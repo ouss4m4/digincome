@@ -1,12 +1,8 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "digital-income",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "description": "Digital Income",
+  "version": "0.1.0",   
   "dependencies": {
     "gatsby": "^2.32.8",
     "gatsby-image": "^2.11.0",
