@@ -38,6 +38,7 @@ So when you are on the market, ETH is your currency, and MetaMask is your wallet
 ## NFTs Markets
 
 There are several marketplaces that have popped up around NFTs, which allow people to buy and sell. These include OpenSea, Rarible, and Grimes’ choice, Nifty Gateway, but there are plenty of others.
+
 <a href="https://opensea.io?ref=0x008d8c1adf0ece93d7a4464854c50590e0c3f0db">
 
 ![OpenSea](./opensea.jpg)
@@ -84,4 +85,4 @@ LAND owners control the content published on their land, which is coded into a s
 
 a conclusion ? what are you waiting for. go get your MetaMask wallet. and start exploring the [OpenSea](https://opensea.io?ref=0x008d8c1adf0ece93d7a4464854c50590e0c3f0db) . there is nothing more to it . it is so simple. if you still have something on your mind that needs clearance. do not hesitate to ask in the comments. i will personally answer your question if i can.
 
-if you are hesitant on how to pick an NFT. read this article here that will show you what and how people are speculating prices and how you can make money trading NFTs.
+if you are hesitant on how to pick an NFT. read this article here <a href="/nfts/valuable-nfts/"> How to pick Valuable NFTs </a>
