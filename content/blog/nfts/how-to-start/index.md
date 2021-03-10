@@ -83,6 +83,6 @@ LAND owners control the content published on their land, which is coded into a s
 
 ## Conclusion
 
-a conclusion ? what are you waiting for. go get your MetaMask wallet. and start exploring the [OpenSea](https://opensea.io?ref=0x008d8c1adf0ece93d7a4464854c50590e0c3f0db) . there is nothing more to it . it is so simple. if you still have something on your mind that needs clearance. do not hesitate to ask in the comments. i will personally answer your question if i can.
+what are you waiting for. go get your MetaMask wallet [here](https://metamask.io/download.html). and start exploring the [OpenSea](https://opensea.io?ref=0x008d8c1adf0ece93d7a4464854c50590e0c3f0db) . there is nothing more to it . it is so simple. if you still have something on your mind that needs clearance. do not hesitate to ask in the comments. i will personally answer your question if i can.
 
 if you are hesitant on how to pick an NFT. read this article here <a href="/nfts/valuable-nfts/"> How to pick Valuable NFTs </a>
