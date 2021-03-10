@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"
+import React from "react"
 /* import addToMailchimp from "gatsby-plugin-mailchimp" */
 
 /* import SubscriptionModal from "../subs-modal/SubscriptionModal" */
