@@ -97,6 +97,8 @@ Arc is far from the only artist riding the coattails of the lucrative NFT craze.
 
 > ### 4: The 2021 Mona Lisa is lurking somewhere on a storage drive. maybe you are not going to find it. but Digital Art is the most profitable niche from the NFTs boom. and Music is coming soon enough.
 
+> read next: [Steve Aoki NFTs collection which went on sale March 7th, brought in $4.25 million in sales ](/nfts/steve-aoki-nft/)
+
 ## Conclusion
 
 There is no definitive Guide to show you what NFTs to buy. you can buy a cryptoKitty right now at 0.05 ETH and it will never become profitable. and i can get a free image from some YouTube guy and hold to it until it gains traction and sell it for ridiculous amount. we all missed on CryptoCurrency. i do not plan to miss on NFTs.

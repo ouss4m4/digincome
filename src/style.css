@@ -310,3 +310,8 @@ a:focus {
   justify-content: center;
   align-items: center;
 }
+
+article a {
+  text-decoration: none;
+  color: var(--color-primary);
+}
