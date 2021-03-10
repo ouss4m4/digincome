@@ -1,9 +1,9 @@
-import React, { useState } from "react"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import React from "react"
+import { Link } from "gatsby"
 import "./header.css"
 
 const Header = () => {
-  const data = useStaticQuery(graphql`
+  /*  const data = useStaticQuery(graphql`
     query HeaderQuery {
       logo: file(absolutePath: { regex: "/logo.png/" }) {
         childImageSharp {
@@ -25,9 +25,9 @@ const Header = () => {
         }
       }
     }
-  `)
-
-  const [expanded, toggleExpanded] = useState(false)
+  `) */
+  /* 
+  const [expanded, toggleExpanded] = useState(false) */
   //const logo = data?.logo?.childImageSharp?.fixed
   return (
     <header id="header" role="banner">
