@@ -153,6 +153,11 @@ p {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
   padding: var(--spacing-0);
   font-size: var(--fontSize-2);
+  /* font-size: 19px;
+  line-height: 1.75;
+  margin-bottom: 30px;
+  color: #000;
+  font-weight: 300; */
 }
 
 ul,
