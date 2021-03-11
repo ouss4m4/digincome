@@ -1,6 +1,6 @@
 ---
 title: As Expected. Music NFTs Are Booming. Want In?
-date: "2021-03-11T22:12:03.284Z"
+date: "2021-03-11T22:12:03"
 description: "People are buying and selling crypto collectibles in a $250 million market. Shawn Mendes, Grimes, and Tory Lanez are just a few celebrities who’ve jumped aboard the crypto train to release exclusive digital goods. turning the Internet into a futuristic, fine-art auction house on crack"
 category: "nft"
 heroimage: nfts-music.jpg
@@ -55,6 +55,5 @@ Aoki’s launch weekend also happened to be NBA All Star Weekend, for which hip-
 “The 3D digital models will feature four custom-designed basketballs that mix music, culture and sport with innovation,” there were two tiers: gold and silver. Each artist got their own silver-edition NFT, of which 150 were minted. Those were sold for a flat price of .4 ETH, which is worth about $715 USD at press time. The artists also each got their own gold-edition NFTs, presented as “10 of 10” and put up for auction.
 
 those tokens had collectively sold for more than $591k. Together, gold and silver tokens generated around $903,000 over the weekend. As of press time, 2 Chainz had the highest-priced sale with his gold “#1 of 10” going for 38 ETH ($68,030 USD).
-
 
 ![2 Chainz NFT with NBA](./2-Chainz-NFT-basketball.jpg)

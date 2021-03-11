@@ -11,7 +11,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Trending Posts" />
+      <SEO title="Get your share of the $2 Billion Market" />
       <div className="inner">
         <ol className="articles-wrap" style={{ listStyle: `none` }}>
           {posts.map((post, index) => {
