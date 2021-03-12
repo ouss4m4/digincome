@@ -1,21 +1,30 @@
-import React from "react"
-/* import addToMailchimp from "gatsby-plugin-mailchimp" */
+import React, { useState } from "react"
+import addToMailchimp from "gatsby-plugin-mailchimp"
 
 /* import SubscriptionModal from "../subs-modal/SubscriptionModal" */
 import Share from "../Share"
 import "./footer.css"
 
 export default function Footer() {
-  /* const [formName, setNameValue] = useState("")
+  const [formName, setNameValue] = useState("")
   const [formEmail, setMailValue] = useState("")
   const [isPosting, setPostingValue] = useState(false)
-  const [showModal, setModalValue] = useState(false) */
 
-  /* useEffect(() => {
+  /*
+  const [showModal, setModalValue] = useState(false)
+   useEffect(() => {
     setTimeout(() => {
       showModalIfInitial()
     }, 45000)
-  })
+  }) */
+  /* const showModalIfInitial = () => {
+    let firstTime = localStorage.getItem("initialModal")
+    if (firstTime === null) {
+      setModalValue(true)
+      localStorage.setItem("initialModal", "done")
+    }
+  }
+  */
 
   const handleNameChange = e => {
     setNameValue(e.target.value)
@@ -24,17 +33,9 @@ export default function Footer() {
     setMailValue(e.target.value)
   }
 
-  const closeModal = () => {
+  /* const closeModal = () => {
     setModalValue(false)
   } */
-
-  /* const showModalIfInitial = () => {
-    let firstTime = localStorage.getItem("initialModal")
-    if (firstTime === null) {
-      setModalValue(true)
-      localStorage.setItem("initialModal", "done")
-    }
-  }
 
   const _handleSubmit = e => {
     e.preventDefault()
@@ -49,16 +50,18 @@ export default function Footer() {
         setPostingValue(false)
       })
   }
- */
   return (
     <footer className="footer">
       {/*  {showModal && <SubscriptionModal closeModal={closeModal} />} */}
-      <div className="container limit-size">
+      <div className="limit-size">
         <div className="row">
           <div className="col-sm-12">
             <div className="col-sm-12 form-wrap">
-              {/* <p>Get free e-books, recipes, fitness tips ad tricks</p> */}
-              {/* <form onSubmit={_handleSubmit}>
+              <p>
+                {" "}
+                Subscribe to our news Letters and get weekly Digital Income news{" "}
+              </p>
+              <form onSubmit={_handleSubmit}>
                 <input
                   type="text"
                   onChange={handleNameChange}
@@ -76,8 +79,8 @@ export default function Footer() {
                   className="email-input"
                   required
                 />
-
-                {isPosting ? (
+                <input className="submit-btn" type="submit" value="Subscribe" />
+                {/* {isPosting ? (
                   <svg className="spinner" viewBox="0 0 50 50">
                     <circle
                       className="path"
@@ -94,8 +97,8 @@ export default function Footer() {
                     type="submit"
                     value="Subscribe"
                   />
-                )}
-              </form> */}
+                )} */}
+              </form>
             </div>
           </div>
 
@@ -131,7 +134,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="col-sm-12">
-            <blockquote style={{ fontSize: "0.8em" }}>
+            <blockquote style={{ fontSize: "0.8em", margin: "0" }}>
               Any information provided on this website does not constitute
               investment advice or investment recommendation nor does it
               constitute an offer to buy or sell or a solicitation of an offer

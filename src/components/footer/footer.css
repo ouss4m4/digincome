@@ -1,11 +1,11 @@
 .footer {
   background-image: linear-gradient(
-    to top,
-    #fff 0%,
-    rgba(235, 235, 235, 0.5) 100%
+    to bottom,
+    #fff 15%,
+    var(--color-primary) 85%
   );
   margin: 0;
-  padding: 0;
+  padding-bottom: 180px;
 }
 
 /* Fields */
@@ -79,15 +79,6 @@
 }
 
 .limit-size {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
-}
-
-.footer a {
-  text-decoration: none;
-  color: inherit;
-}
-
-.footer {
-  padding: 14px;
 }
