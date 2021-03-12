@@ -29,6 +29,15 @@ module.exports = {
         },
       },
     },
+
+    {
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint:
+          "https://digincome.us1.list-manage.com/subscribe/post?u=4d14180d272fd5384972be751&amp;id=31f371bc1c", // string; add your MC list endpoint here; see instructions below
+        timeout: 3500,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
