@@ -1,3 +1,20 @@
+::-webkit-input-placeholder {
+  color: #aaa;
+}
+:-moz-placeholder {
+  color: #aaa;
+  opacity: 1;
+}
+::-moz-placeholder {
+  color: #aaa;
+  opacity: 1;
+}
+:-ms-input-placeholder {
+  color: #aaa;
+}
+::-ms-input-placeholder {
+  color: #aaa;
+}
 .footer {
   background-image: linear-gradient(
     to bottom,
@@ -5,39 +22,35 @@
     var(--color-primary) 85%
   );
   margin: 0;
-  padding-bottom: 180px;
+  padding-bottom: 20px;
+}
+/* .footer {
+  background: var(--color-primary);
+} */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-/* Fields */
-::-webkit-input-placeholder {
-  /* WebKit, Blink, Edge */
-  color: #aaa;
+.upper {
+  display: flex;
 }
-:-moz-placeholder {
-  /* Mozilla Firefox 4 to 18 */
-  color: #aaa;
-  opacity: 1;
+.form-wrap {
+  padding: 1em;
+  max-width: 600px;
 }
-::-moz-placeholder {
-  /* Mozilla Firefox 19+ */
-  color: #aaa;
-  opacity: 1;
+
+.form-wrap form {
+  display: flex;
+  align-items: center;
 }
-:-ms-input-placeholder {
-  /* Internet Explorer 10-11 */
-  color: #aaa;
-}
-::-ms-input-placeholder {
-  /* Microsoft Edge */
-  color: #aaa;
-}
-/* Button */
+
 .form-wrap form .submit-btn {
   background-color: #00c5be;
   border: none;
   color: #fff;
-  font-size: 0.7em;
-  padding: 2px 10px;
+  font-size: 1em;
+  padding: 0.2em;
   text-transform: uppercase;
   font-weight: normal;
   vertical-align: top;
@@ -52,33 +65,44 @@
   padding: 8px 0px;
   margin: 0;
 }
-/* 
 
-.form-wrap form {
-  display: flex;
-  margin: 0;
-  padding: 0;
-}
-
-.form-wrap form input {
-  width: 100%;
-}
-
-.form-wrap form .submit-btn {
-}
- */
 .links {
   display: flex;
-  font-size: 0.6em;
-  justify-content: space-evenly;
-  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.links p {
+  font-size: var(--fontSize-0);
+  margin: 0;
 }
 
 .links a {
-  margin-left: 8px;
+  text-decoration: none;
+  font-size: inherit;
+  color: inherit;
+  font-size: var(--fontSize-0);
 }
 
-.limit-size {
-  max-width: 1200px;
-  margin: 0 auto;
+.sharewrap {
+  padding: 1em;
+}
+@media screen and (max-width: 820px) {
+  .email-input,
+  .name-input {
+    margin-bottom: 4px;
+  }
+  .form-wrap form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .form-wrap p {
+    font-size: 12px;
+  }
+  .upper {
+    display: flex;
+    flex-direction: column;
+  }
 }
