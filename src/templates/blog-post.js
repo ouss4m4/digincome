@@ -22,24 +22,24 @@ const BlogPostTemplate = ({ data, location }) => {
         description={post.frontmatter.description || post.excerpt}
         keywords={keywords}
       />
-      <Share
-        round={true}
-        socialConfig={{
-          twitterHandle,
-          config: {
-            url: `${url}${slug}`,
-            title,
-          },
-        }}
-        tags={[]}
-        shareUrl={location.href}
-        media={picture}
-      />
       <article
         className="blog-post"
         itemScope
         itemType="http://schema.org/Article"
       >
+        <Share
+          round={true}
+          socialConfig={{
+            twitterHandle,
+            config: {
+              url: `${url}${slug}`,
+              title,
+            },
+          }}
+          tags={[]}
+          shareUrl={location.href}
+          media={picture}
+        />
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
@@ -48,16 +48,16 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
-        <DiscusArea
-          location={location}
-          title={post.frontmatter.title}
-          id={post.frontmatter.title}
-        />
         <hr />
         <footer>
           <Bio />
         </footer>
       </article>
+      <DiscusArea
+        location={location}
+        title={post.frontmatter.title}
+        id={post.frontmatter.title}
+      />
 
       <nav className="blog-post-nav">
         <ul
