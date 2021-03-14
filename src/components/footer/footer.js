@@ -1,7 +1,7 @@
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
 import addToMailchimp from "gatsby-plugin-mailchimp"
 
-/* import SubscriptionModal from "../subs-modal/SubscriptionModal" */
+import SubscriptionModal from "../subs-modal/SubscriptionModal"
 import Share from "../Share"
 import "./footer.css"
 
@@ -9,22 +9,21 @@ export default function Footer() {
   const [formName, setNameValue] = useState("")
   const [formEmail, setMailValue] = useState("")
   const [isPosting, setPostingValue] = useState(false)
-
-  /*
   const [showModal, setModalValue] = useState(false)
-   useEffect(() => {
+
+  useEffect(() => {
     setTimeout(() => {
       showModalIfInitial()
-    }, 45000)
-  }) */
-  /* const showModalIfInitial = () => {
+    }, 15000)
+  }, [])
+
+  const showModalIfInitial = () => {
     let firstTime = localStorage.getItem("initialModal")
     if (firstTime === null) {
       setModalValue(true)
       localStorage.setItem("initialModal", "done")
     }
   }
-  */
 
   const handleNameChange = e => {
     setNameValue(e.target.value)
@@ -33,9 +32,9 @@ export default function Footer() {
     setMailValue(e.target.value)
   }
 
-  /* const closeModal = () => {
+  const closeModal = () => {
     setModalValue(false)
-  } */
+  }
 
   const _handleSubmit = e => {
     e.preventDefault()
@@ -52,7 +51,7 @@ export default function Footer() {
   }
   return (
     <footer className="footer">
-      {/*  {showModal && <SubscriptionModal closeModal={closeModal} />} */}
+      {showModal && <SubscriptionModal closeModal={closeModal} />}
 
       <div className="container">
         <div className="upper">
@@ -79,7 +78,28 @@ export default function Footer() {
                 className="email-input"
                 required
               />
-              <input className="submit-btn" type="submit" value="Subscribe" />
+              {isPosting ? (
+                <div>
+                  <svg className="spinner" viewBox="0 0 20 20">
+                    <circle
+                      className="path"
+                      cx="10"
+                      cy="10"
+                      r="7"
+                      fill="none"
+                      strokeWidth="1"
+                    ></circle>
+                  </svg>
+                </div>
+              ) : (
+                <>
+                  <input
+                    className="submit-btn"
+                    type="submit"
+                    value="Subscribe"
+                  />
+                </>
+              )}
             </form>
           </div>
           <div className="sharewrap">
