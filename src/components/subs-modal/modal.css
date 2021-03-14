@@ -1,0 +1,140 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+    to top,
+    rgb(233, 231, 231) 0%,
+    rgba(214, 214, 214, 0.5) 100%
+  );
+  z-index: 200;
+}
+
+.modal-content {
+  background: white;
+  padding: 1em;
+  width: 90%;
+  max-width: 580px;
+  position: relative;
+  box-shadow: -1px 2px 8px 3px #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal form .submit-btn {
+  background-color: #00c5be;
+  border: none;
+  color: #fff;
+  font-size: 0.7em;
+  padding: 2px 10px;
+  text-transform: uppercase;
+  font-weight: normal;
+  vertical-align: top;
+  cursor: pointer;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 12px;
+}
+
+.modal form .cancel-btn {
+  background-color: transparent;
+  color: black;
+  font-size: 0.7em;
+  padding: 2px 10px;
+  text-transform: uppercase;
+  font-weight: normal;
+  vertical-align: top;
+  cursor: pointer;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 12px;
+
+}
+
+.form-btn-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.book-wrap {
+  width: 100%;
+  height: 100%;
+  max-width: 230px;
+  margin: 0 auto;
+}
+
+.name-input {
+ /*  margin-bottom: 5px; */
+}
+
+@media only screen and (max-width: 420px) {
+  .modal-content {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.spinner {
+  -webkit-animation: rotate 2s linear infinite;
+  animation: rotate 2s linear infinite;
+  z-index: 2;
+  /* position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -25px 0 0 -25px; */
+  width: 50px;
+  height: 50px;
+}
+.spinner .path {
+  stroke: #93bfec;
+  stroke-linecap: round;
+  -webkit-animation: dash 1.5s ease-in-out infinite;
+  animation: dash 1.5s ease-in-out infinite;
+}
+
+@-webkit-keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -124;
+  }
+}
+@keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -124;
+  }
+}
