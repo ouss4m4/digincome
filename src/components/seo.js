@@ -28,7 +28,6 @@ const SEO = ({ description, lang, meta, title, keywords }) => {
   )
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
-
   return (
     <Helmet
       htmlAttributes={{
@@ -42,6 +41,10 @@ const SEO = ({ description, lang, meta, title, keywords }) => {
           content: metaDescription,
         },
         {
+          name: "image",
+          content: `https://digincome.com/static/2732c35d5a0dc5f752b482bae831570f/f731e/value.png`,
+        },
+        {
           property: `og:title`,
           content: title,
         },
@@ -52,6 +55,10 @@ const SEO = ({ description, lang, meta, title, keywords }) => {
         {
           property: `og:type`,
           content: `website`,
+        },
+        {
+          name: "og:image",
+          content: `https://digincome.com/static/2732c35d5a0dc5f752b482bae831570f/f731e/value.png`,
         },
         {
           name: `twitter:card`,
@@ -68,6 +75,10 @@ const SEO = ({ description, lang, meta, title, keywords }) => {
         {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          name: "twitter:image",
+          content: `https://digincome.com/static/2732c35d5a0dc5f752b482bae831570f/f731e/value.png`,
         },
         {
           name: `keywords`,
