@@ -111,6 +111,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY, hh:mm")
         description
         heroimage
+        keywords
       }
       fields {
         slug
