@@ -3,7 +3,7 @@ title: I’m selling this song about NFTs as an NFT | Elon Musk
 date: "2021-03-16T22:12"
 description: "Bidding for Musk's Crypto-Themed NFT Pass $1M Tesla CEO Elon Musk speaks during the unveiling of the Tesla Model Y"
 category: "nft"
-heroimage: elon-musk-nft
+heroimage: elon-musk-nft.png
 keywords: "crypto art,how to trade nfts,how to sell nft,how to buy nft,sell nft,buy nft,trade nft"
 ---
 
