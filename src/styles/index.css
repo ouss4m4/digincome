@@ -50,6 +50,11 @@ img {
   display: block;
 }
 
+.box-shadow {
+  -webkit-box-shadow: 0 29px 60px 0 rgb(54 57 73 / 9%);
+  box-shadow: 0 29px 60px 0 rgb(54 57 73 / 9%);
+}
+
 @media (min-width: 768px) {
   .post-list-item {
     width: 460px;
