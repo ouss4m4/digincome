@@ -42,7 +42,7 @@ const SEO = ({ description, lang, meta, title, keywords }) => {
         },
         {
           name: "image",
-          content: `https://digincome.com/static/2732c35d5a0dc5f752b482bae831570f/f731e/value.png`,
+          content: `https://digincome.com/twitter-card.png`,
         },
         {
           property: `og:title`,
@@ -58,7 +58,7 @@ const SEO = ({ description, lang, meta, title, keywords }) => {
         },
         {
           name: "og:image",
-          content: `https://digincome.com/static/2732c35d5a0dc5f752b482bae831570f/f731e/value.png`,
+          content: `https://digincome.com/twitter-card.png`,
         },
         {
           name: `twitter:card`,
@@ -78,7 +78,11 @@ const SEO = ({ description, lang, meta, title, keywords }) => {
         },
         {
           name: "twitter:image",
-          content: `https://digincome.com/static/2732c35d5a0dc5f752b482bae831570f/f731e/value.png`,
+          content: `https://digincome.com/twitter-card.png`,
+        },
+        {
+          name: "twitter:site",
+          content: "@digincome",
         },
         {
           name: `keywords`,
