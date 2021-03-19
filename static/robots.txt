@@ -1,2 +1,6 @@
 User-agent: *
-Disallow:
+Disallow: /affiliate/
+Disallow: /disclaimer/
+Disallow: /privacy/
+
+Sitemap: https://digincome.com/sitemap.xml
