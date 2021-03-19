@@ -3,4 +3,6 @@ Disallow: /affiliate/
 Disallow: /disclaimer/
 Disallow: /privacy/
 
+Allow: /affiliate-marketing
+
 Sitemap: https://digincome.com/sitemap.xml
