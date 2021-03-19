@@ -1,5 +1,5 @@
 ---
-title: ClickBank + FB Ads = Profit
+title: The Right Way To Do Facebook Ads
 date: "2021-03-01T22:12:03.284Z"
 description: "the simplest form of affiliate marketing i have done and it worked for me is ClickBank products with Facebook ads and a Landing Page"
 category: Affiliate marketing
