@@ -61,7 +61,17 @@ const BlogPostTemplate = ({ data, location }) => {
           id={post.frontmatter.title}
         />
       ) : (
-        <button onClick={() => setShowCmnts(true)}>Show Comments</button>
+        <div className="center-it show-cmnts">
+          <div
+            class="button_cont"
+            align="center"
+            onClick={() => setShowCmnts(true)}
+          >
+            <a class="example_c" role="button">
+              Show Comments
+            </a>
+          </div>
+        </div>
       )}
 
       <nav className="blog-post-nav">
