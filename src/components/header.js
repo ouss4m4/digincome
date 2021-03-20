@@ -45,7 +45,7 @@ const Header = () => {
               <Link to="/affiliate-marketing">Affiliate Marketing</Link>
             </li>
             <li className="nav-item">
-              <Link to="/ecom">eCommerce</Link>
+              <Link to="/ecommerce">eCommerce</Link>
             </li>
             <li className="nav-item">
               <Link to="/trading">Day Trading</Link>
@@ -76,7 +76,7 @@ const Header = () => {
               <Link to="/affiliate-marketing">Affiliate Marketing</Link>
             </li>
             <li className="nav-item-second">
-              <Link to="/ecom">eCommerce</Link>
+              <Link to="/ecommerce">eCommerce</Link>
             </li>
             <li className="nav-item-second">
               <Link to="/trading">Day Trading</Link>
