@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { Link } from "gatsby"
 import "./header.css"
 
@@ -26,8 +26,8 @@ const Header = () => {
       }
     }
   `) */
-  /* 
-  const [expanded, toggleExpanded] = useState(false) */
+
+  const [expanded, toggleExpanded] = useState(false)
   //const logo = data?.logo?.childImageSharp?.fixed
   return (
     <header id="header" role="banner">
@@ -39,7 +39,7 @@ const Header = () => {
           </Link>
         </div>
         <p className="nav-list">Stop Crying Over Bitcoin, Get into NFT</p>
-        {/* <nav role="navigation">
+        <nav role="navigation">
           <ul className="nav-list">
             <li className="nav-item">
               <Link to="/affiliate-marketing">Affiliate Marketing</Link>
@@ -82,7 +82,7 @@ const Header = () => {
               <Link to="/trading">Day Trading</Link>
             </li>
           </ul>
-        </nav> */}
+        </nav>
       </div>
     </header>
   )
