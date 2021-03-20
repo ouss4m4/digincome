@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -15,6 +15,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const slug = data.markdownRemark.fields.slug
   const picture = post.frontmatter.heroimage
   const keywords = post.frontmatter.keywords
+  const [showCmnts, setShowCmnts] = useState(false)
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
@@ -53,11 +54,15 @@ const BlogPostTemplate = ({ data, location }) => {
           <Bio />
         </footer>
       </article>
-      <DiscusArea
-        location={location}
-        title={post.frontmatter.title}
-        id={post.frontmatter.title}
-      />
+      {showCmnts ? (
+        <DiscusArea
+          location={location}
+          title={post.frontmatter.title}
+          id={post.frontmatter.title}
+        />
+      ) : (
+        <button onClick={() => setShowCmnts(true)}>Show Comments</button>
+      )}
 
       <nav className="blog-post-nav">
         <ul
