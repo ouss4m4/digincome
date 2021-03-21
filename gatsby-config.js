@@ -8,7 +8,7 @@ module.exports = {
     description: `be it eCommerce, Affiliate Marketing, or Day Trading. We Got you covered with Guides, Tips and Tricks to start earning as soon as possible. Pick your favorite niche and Start building your digital career now .`,
     siteUrl: `https://digincome.com`,
     social: {
-      twitter: ``,
+      twitter: `digincome`,
     },
   },
   plugins: [
