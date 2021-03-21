@@ -39,7 +39,7 @@ const BlogPostTemplate = ({ data, location }) => {
           }}
           tags={[]}
           shareUrl={location.href}
-          media={picture}
+          media={`https://digincome.com/twitter-card.png`}
         />
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
@@ -54,6 +54,7 @@ const BlogPostTemplate = ({ data, location }) => {
           <Bio />
         </footer>
       </article>
+
       {showCmnts ? (
         <DiscusArea
           location={location}
