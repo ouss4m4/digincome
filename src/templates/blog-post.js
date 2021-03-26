@@ -64,11 +64,11 @@ const BlogPostTemplate = ({ data, location }) => {
       ) : (
         <div className="center-it show-cmnts">
           <div
-            class="button_cont"
+            className="button_cont"
             align="center"
             onClick={() => setShowCmnts(true)}
           >
-            <a class="example_c" role="button">
+            <a className="example_c" role="button">
               Show Comments
             </a>
           </div>
