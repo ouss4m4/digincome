@@ -38,7 +38,7 @@ const Header = () => {
             Digital Income
           </Link>
         </div>
-        <p className="nav-list">Stop Crying Over Bitcoin, Get into NFT</p>
+        <p className="nav-list">Digs  For Digital Income Gigs</p>
         {/* <nav role="navigation">
           <ul className="nav-list">
             <li className="nav-item">
