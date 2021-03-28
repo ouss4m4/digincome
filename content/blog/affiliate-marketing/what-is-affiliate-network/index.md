@@ -107,37 +107,37 @@ Now that you know what to look for — and what to avoid — let’s explore som
 
 ![ShareASale](./shareasale.png)
 
-This Chicago-based affiliate network has been around since 2000. As a ShareASale affiliate, you can connect with more than 4,000 programs and earn commissions on a wide range of products, including Reebok, Cricut, and Etsy.
+[Share A Sale](https://www.shareasale.com/info/). A Chicago-based affiliate network has been around since 2000. As an affiliate, you can connect with more than 4,000 programs and earn commissions on a wide range of products, including Reebok, Cricut, and Etsy.
 
 - **Awin**
 
 ![Awin Network](./awin.PNG)
 
-Awin is a global affiliate network platform with access to more than 15,000 advertisers, and they helped generate more than 150 million in sales in 2019 alone. It’s also worth noting they own several other affiliate networks, including ShareASale, though those networks have their own sites.
+[Awin](https://www.awin.com/us) is a global affiliate network platform with access to more than 15,000 advertisers, and they helped generate more than 150 million in sales in 2019 alone. It’s also worth noting they own several other affiliate networks, including ShareASale, though those networks have their own sites.
 
 - **Amazon Associates**
 
 ![Amazon Associates](./amazon-associates.PNG)
 
-Probably the best-known affiliate network is Amazon Associates. As the largest e-commerce store globally, Amazon provides access to millions of products from baby gear to home goods, makeup, and much more.
+Probably the best-known affiliate network is [Amazon Associates](https://affiliate-program.amazon.com/). As the largest e-commerce store globally, Amazon provides access to millions of products from baby gear to home goods, makeup, and much more.
 
 - **CJ Affiliate**
 
 ![CJ Commission Junction](./cj-affiliate.PNG)
 
-Formerly known as Commission Junction, CJ Affiliate is one of the world’s largest and oldest affiliate marketing networks. They connect merchants with more than 14 billion readers annually and help affiliate marketers earn more than $1.8 billion every year.
+Formerly known as Commission Junction, [CJ Affiliate](https://www.cj.com/) is one of the world’s largest and oldest affiliate marketing networks. They connect merchants with more than 14 billion readers annually and help affiliate marketers earn more than $1.8 billion every year.
 
 - **Rakuten Advertising**
 
 ![Rakuten Advertising](./rakuten.png)
 
-Founded as a Japanese e-commerce brand, Rakuten Advertising is home to one of the top affiliate marketing networks. They provide affiliates access to hundreds of top brands, including Wells Fargo, Lilly Pulitzer, Virgin Holidays, and Ecco.
+Founded as a Japanese e-commerce brand, [Rakuten Advertising](https://rakutenadvertising.com/) is home to one of the top affiliate marketing networks. They provide affiliates access to hundreds of top brands, including Wells Fargo, Lilly Pulitzer, Virgin Holidays, and Ecco.
 
 - **ClickBank**
 
 ![ClickBank](./clickbank-hero.PNG)
 
-ClickBank is a global affiliate marketing platform providing access to a wide range of products you can promote, including physical and digital ones.
+[ClickBank](https://www.clickbank.com/) is a global affiliate marketing platform providing access to a wide range of products you can promote, including physical and digital ones.
 
 Overall, ClickBank is easy to join and provides access to a wide range of products. It is the most popular because of it's straight forward and easy website.
 
