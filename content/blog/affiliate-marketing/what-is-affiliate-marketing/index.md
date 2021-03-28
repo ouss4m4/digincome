@@ -81,6 +81,8 @@ A specific category<strong> That you are passionate about</strong>
 
 Many affiliate sites die due to a lack of consistency. So at the very least, if you’re passionate about a topic, you’ll find it much easier to press on when the going gets tough.
 
+> Read this detailed article about "[Find a Profitable Niche in Affiliate Marketing](https://digincome.com/affiliate-marketing/find-profitable-niche/)"
+
 ## Step 3: Find affiliate programs
 
 Now that you have picked your sub-niche. Finding affiliate programs is easy.
@@ -137,6 +139,8 @@ The best way to find these affiliate programs is with a Google search.
 ![Finding An Affiliate Program](./finding-affiliate-program.PNG)
 
 However, if there is a product you’d really like to promote without a public affiliate program, reach out to the company and ask if they would be willing to build an affiliate relationship with you.
+
+> Related Article: "[What is an Affiliate Network And How To Pick One](https://digincome.com/affiliate-marketing/what-is-affiliate-network/)"
 
 ## Step 4: Create great content
 
@@ -302,7 +306,7 @@ Sometimes, it’s best to go with your gut feeling.
 
 If the program or product you’re checking out feels “off,” or if you would personally never recommend the product to a friend or family member, then don’t promote it.
 
-## Final thoughts
+## Conclusion
 
 No affiliate marketing wheels were reinvented here. These are the basics, and mastering them will set you up for success.
 
