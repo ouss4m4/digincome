@@ -13,7 +13,6 @@ const BlogPostTemplate = ({ data, location }) => {
   const { previous, next } = data
   const { twitterHandle, title, url } = data.site.siteMetadata
   const slug = data.markdownRemark.fields.slug
-  const picture = post.frontmatter.heroimage
   const keywords = post.frontmatter.keywords
   const [showCmnts, setShowCmnts] = useState(false)
   return (
@@ -126,7 +125,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY, hh:mm")
         description
-        heroimage
         keywords
       }
       fields {
