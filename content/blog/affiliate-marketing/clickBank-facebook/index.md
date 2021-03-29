@@ -3,7 +3,7 @@ title: ClickBank Offers With FaceBook Ads
 date: "2021-03-01T22:12:03.284Z"
 description: "the simplest form of affiliate marketing i have done and it worked for me is ClickBank products with Facebook ads and a Landing Page"
 category: Affiliate marketing
-heroimage: clickbank-fb
+heroimage: clickbank-fb.png
 ---
 
 With 2 billion monthly active users on Facebook, you might wonder if Facebook advertising is the best course of action to help you scale.
@@ -72,15 +72,95 @@ Let's go over the strategy and explain every step in details.
 
 Sometimes you do everything right on the landing page and audience targeting. You get clicks on your ads. and then clicks on your affiliate link. but still make no profit.
 
-It is usually the Product itself. this is how i decide when picking a product from ClickBank to promote on FaceBook.
+It is usually the Product itself that is not converting. this is how i decide when picking a product from ClickBank to promote on FaceBook.
 
 ## 1. Product Niche
 
-Product Niche is very important when using facebook ads. promoting a puppy toy is different from promoting weight loss pills. here is what i found:
+Product Niche is very important when using facebook ads. let's take an example of 2 campaign i tried before. promoting a puppy toy is different from promoting weight loss pills. here is what i found:
 
-- targeting puppies owners is easier than targeting overweight people who are interested in weight loss pills. and facebook will actually help you once your campaign starts getting conversions. and you can build a look-alike-audience to target them again later with more puppies offers.
+- targeting puppies owners is easier than targeting overweight people. and you never know if they are are interested in weight loss pills or they do not take them.
 
--
+- people on facebook tends to stay on facebook. unless they see something they really like ! they would not follow a link that take them out of facebook.
+
+- a cute puppy can be approved easily on ads creatives. but body parts are not allowed on facebook. Before/After photos are not permitted too. so you are left with illustrations that hints to weight loss. good luck getting people to click on it.
+
+- Facebook will actually help you once your campaign starts getting conversions. and you can build a look-alike-audience to target them again later with more puppies offers.
+
+- Weight loss offers are not beginners friendly at all. they are very competitive on facebook and you have many aspects to focus on when creating your landing page.
+
+> If you are a beginner, i advise you against weight loss offers on Facebook. get familiar with other offers first before going for this highly competitive niche.
+
+## 2. Product Statistics
+
+ClickBank market place provide relevant product statistics on the main page.
+
+Let's see an example of the hottest product on ClickBank at the time of writing.
+
+_A conversion on this product means A Sale_
+
+<div class="wrap-image">
+
+![BioFit Statistics](./biofit-stats.PNG)
+
+</div>
+
+- **Avg $/conversion** : This is the amount you will be paid on **average**. calculated using other affiliates data. you may get different commissions.
+
+- **initial $/conversion**: This is how much you will be paid without an Upsell. this is usually when the customer buy a bundle. if he buys a single bottle. you will get a loss less than that.
+
+- **Recurring $/rebill**: Some products have a subscription plan or a refill. when a client you referred the first time buys Again. you also get your share for every time he buys again. This is called recurring payment. it is the best form of passive income.
+
+- **Gravity**: The most important stats of ClickBank is Gravity. they do not give details of the calculation but it is widely thought to be as follows:
+
+  Gravity is a performance statistic. a number which represents a unique calculation by ClickBank that takes into account the number of **different affiliates who earned a commission** by promoting this product over the **past 12 weeks**.
+
+  Since more recent transactions are given a higher value, this number can give you an idea of what products are **“hot” at the moment**.
+
+Products with gravity over 150 are always on top of the list. they tend to be very competitive. on the other hand products with less than 40 gravity are new to the market and slightly unknown to the world.
+
+> Do not go for product with gravity lower than 45. an average payment of $70 and higher will make sure you break the campaign even or get profit when you start testing. Recurring is a bonus.
+
+## 3. Vendor Page and Refund Rate
+
+When someone clicks on your referral link they get redirected to the vendor page. so what is the logic thing to do next ?
+
+Visit the vendor page !
+
+- One mistake you should not fall for is promoting to people on Phones. and the vendor page is **not responsive**. always check the vendor page on mobiles and desktop too.
+
+- if it is a TSL - Text Sales Letter - check the headers and the theme the page is using. you may build your landing page around it using the same color scheme. to make it **congruent**.
+
+- if it is a VSL - Video Sales Letter - you can copy the **thumbnail** and use it in your landing page to send people to the video. it will keep the user experience neat.
+
+- Countries Allow: check what countries the vendor **covers shipping**. you don't want to spend money advertising to countries the vendor does not ship to. this is money lost.
+
+One thing that ClickBank statistics does not show on the marketplace. is the **refund rate**.
+
+it is very important to contact the vendor and ask them about the refund rate. what traffic source is working best for other affiliates. creatives they can provide to help build your landing page. and whatever you like to know about the product. you won't believe how much information they can provide.
+
+## 4. External Websites
+
+There are a lot of websites that provide ClickBank statistics.
+the only website i use is [CbEngine](https://cbengine.com/).
+
+What makes CbEngine my favorite is the Graphs they provide in addition to ClickBank statistics.
+
+![cbengine biofit stats](./cbengine-biofit.PNG)
+
+- **Gravity**: same as ClickBank but it show how much it changed. it saves you from promoting a dying product.
+- **First Seen**; some products are added to ClickBank, removed , and then added back again as a relaunch. make sure to check the last time stats.
+- **History Graphs**: a lot of graphics are available on the GRAPH tab. history of payout. gravity. popularity. and commission is all shown with dates. this will help you a lot.
+- **Free Plan**: CbEngine offer a PRO version with more options and tracking. but the Free Plan alone will help you decide on a product.
+
+> Use CbEngine to investigate products further. and narrow down your list of potential offers.
+
+## Product Picking Conclusion
+
+Choosing the right product can be challenging in the beginning. but if you follow these 4 steps. take your time and make a list of potential products to promote.
+
+it is easy to narrow it down to a final winner. A Converting product is a Major Factor of a successful campaign.
+
+This works even if you are not advertising on facebook.
 
 ## Creating A landing Page
 
