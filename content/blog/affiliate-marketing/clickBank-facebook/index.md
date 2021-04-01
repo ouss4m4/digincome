@@ -1,5 +1,5 @@
 ---
-title: ClickBank Offers With FaceBook Ads
+title: How to Promote ClickBank Offers With FaceBook Ads
 date: "2021-03-01T22:12:03.284Z"
 description: "the simplest form of affiliate marketing i have done and it worked for me is ClickBank products with Facebook ads and a Landing Page"
 category: Affiliate marketing
@@ -74,7 +74,7 @@ Sometimes you do everything right on the landing page and audience targeting. Yo
 
 It is usually the Product itself that is not converting. this is how i decide when picking a product from ClickBank to promote on FaceBook.
 
-## 1. Product Niche
+- ## 1. Product Niche
 
 Product Niche is very important when using facebook ads. let's take an example of 2 campaign i tried before. promoting a puppy toy is different from promoting weight loss pills. here is what i found:
 
@@ -90,7 +90,7 @@ Product Niche is very important when using facebook ads. let's take an example o
 
 > If you are a beginner, i advise you against weight loss offers on Facebook. get familiar with other offers first before going for this highly competitive niche.
 
-## 2. Product Statistics
+- ## 2. Product Statistics
 
 ClickBank market place provide relevant product statistics on the main page.
 
@@ -120,7 +120,7 @@ Products with gravity over 150 are always on top of the list. they tend to be ve
 
 > Do not go for product with gravity lower than 45. an average payment of $70 and higher will make sure you break the campaign even or get profit when you start testing. Recurring is a bonus.
 
-## 3. Vendor Page and Refund Rate
+- ## 3. Vendor Page and Refund Rate
 
 When someone clicks on your referral link they get redirected to the vendor page. so what is the logic thing to do next ?
 
@@ -138,7 +138,7 @@ One thing that ClickBank statistics does not show on the marketplace. is the **r
 
 it is very important to contact the vendor and ask them about the refund rate. what traffic source is working best for other affiliates. creatives they can provide to help build your landing page. and whatever you like to know about the product. you won't believe how much information they can provide.
 
-## 4. External Websites
+- ## 4. External Websites
 
 There are a lot of websites that provide ClickBank statistics.
 the only website i use is [CbEngine](https://cbengine.com/).
@@ -154,18 +154,204 @@ What makes CbEngine my favorite is the Graphs they provide in addition to ClickB
 
 > Use CbEngine to investigate products further. and narrow down your list of potential offers.
 
-## Product Picking Conclusion
+- ## Product Picking Conclusion
 
 Choosing the right product can be challenging in the beginning. but if you follow these 4 steps. take your time and make a list of potential products to promote.
 
 it is easy to narrow it down to a final winner. A Converting product is a Major Factor of a successful campaign.
 
-This works even if you are not advertising on facebook.
+> Always see the product as a buyer. Would you but it ? and be honest when promoting it. Do not lie to people.
 
-## Creating A landing Page
+## Create A landing Page
 
-## Creating Facebook Ads
+Now that you have a product. it is time create the Landing page. this is the page users will land on after they click on your ads.
 
-## My Experience On FaceBook With ClickBank
+With a landing page, the process of directing the user and make them perform a particular action also gets simplified.
 
-## Conclusion
+By creating a specific landing page, you can effectively tailor the customer’s experience, providing eager users the exact info they need to check.
+
+## Importance of Landing Page.
+
+Direct linking vs Landing page is a question that i see a lot. i will state the benefits of using a landing page that you will lose if you direct link.
+
+1. Build an Email list for future promotion.
+1. Ability to control the content and split test what works what does not.
+1. Ability to pre-sell your leads to get very high conversion rates from leads you send.
+1. Writing articles and gain client trust before promoting to them.
+1. Tracking Campaigns, what works. and what it losing you money.
+
+there are 5 simple benefits you will lose the second you do not use a bridge. there is a reason All Successful affiliate use a landing page. and do not think of it as Extra work. imagine spending money to promote a product a directly link users to the vendor. you have NO CONTROL over the funnel. you have no optimization or personalization that makes your campaign different.
+
+## Types Of Landing Page
+
+In affiliate marketing. the 3 most common landing pages are Lead Generation. Review Pages. And PreSell AKA PreLander. they differ from each other in layout and purpose.
+
+- **1. What is a Lead Generation Landing Page?**
+
+The main purpose of a lead generation page is to collect specific information of the Client. to be used later.
+
+Most common is the user's email address and name.
+
+the typical layout is a colorful nicely designed template with a form to fill the user info and a big call to action button.
+
+![MS Office Lead Generation ](./lead-generation-form.jpg)
+
+When the client clicks on your add. he will be forwarded to your lead generation page. once he fill in the form (lead generated). there are 2 types called :
+
+- Single Opt-in -most common-: Client gets redirected right after filling the form. even if the email does not really exist.
+
+- Double Opt-in: You create a secondary page called the **Thank you page** . when the client fill in the form. you send him an email with a link to this Thank you page. then redirect him to the offer.
+
+Lists generated with single opt-in may have wrong emails or people who just wanted to see the one offer. and not interested in following your emails.
+
+as Double opt-in requires the client to access his email and then confirm it means he is interested and will potentially convert. be careful that this also is a Repulsive action. some people see this as a burden. and won't follow your lead.
+
+- **When To Use Lead Generation Page?**
+
+Some vendors also do lead generations on their page. if the offer you are promoting is doing it . you probably should not. when was the last time you were asked for your email twice in a row ? and did not get suspicious.
+
+Lead generation works best when you provide a freebie with it. You can always use free of copyright ebooks.
+
+E-mail marketing is considered one of the best affiliates channels. You slowly build a list of people who have a common interest in a topic. and you keep promoting to them in the future without spending more money on the adds.
+
+- **2. What is a Review Landing Page**
+
+as the name dictate it. you will review a product or a service and provide additional details and experience about it.
+
+this type of Landers is very common with search ads. but can also be altered to work with facebook ads.
+
+the most common type of review pages is Advertorials style. you will write an article that answers the frequently asked questions. and give your final thoughts or a conclusion.
+
+type any product name on google and add "review". you will be presented with a lot of website doing reviews of different products and services. and they all provide a referral link to the product in the end.
+
+the best choice for beginners is the Review Page.
+
+This is an example of a Chef's Knives comparison with a conclusion and link to amazon
+
+![Amazon Referral Example](./knives-cta-example.jpg)
+
+- **When To Use Review landing Page?**
+
+Review pages can be used on different angles and niches. they are very common on health related products because you need to provide a lot of information to the reader before he decides to buy.
+
+Review pages works best when you have the product in hand. you are a real customer who tried the product and is now sharing personal experience.
+
+A review page tends to build some confidence on the first tier of the article. then provide call to actions in the middle.
+
+- **3. What is a Presell page**
+
+A pre-lander is a page which appears right before an actual offer.
+
+Generally, the objective of a pre-lander is to act as a warm up for the visitor. and when Direct Linking is not a viable option.
+
+Users check the pre-landing page, and they get a sense of what the actual offer is gonna be all about.
+
+A pre-landing page has a clear Call-to-Action with no distractions that could confuse potential users, leading them to convert.
+
+![Presell page](./presell-old.jpg)
+
+- **When To Use Presell Page?**
+
+i am pretty sure you have seen a Presell page before. they are so popular on Native ads.
+
+a presell page can be used whenever you don't want to force the client to fill a form -lead generations- and you are not providing a -review- of the product. so you warm up the offer and add a gentle introduction.
+
+## Landing Page Conclusion
+
+Creating a Landing Page is a key step. and you should get yourself familiar with it if you want to be a successful marketer .
+
+Since this is about FaceBook ads. Let me tell you right now . Quiz Pages -considered a lead generation page- are actually the best this year. they convert like crazy. as long as you set them up right. this is how i set up mine.
+
+let's take an example of a Snoring Solution Product.
+
+- **1** User see my ad in facebook that has a catchy image (scroll stopper) .
+  ![Sleep snoring](./sleep-snore.png)
+
+- **2** Now i got the user attention. let's make him click. "If you or your partner snore. You have to see this"
+
+- **3** Once he reaches my landing page. i will ask him snoring related questions with easy yes or no answers.
+
+- **4** On the final question. usually 6-7 are enough. redirect him to the offer after creating some kind of suspense.
+
+If you would like to collect emails you can do it on the final quiz question. you have a higher chance the user will fill in the form than if you do it on start.
+
+> You can try other types of landing pages. it all depends on the product and the strategy you are building. After you get some experience. deciding on the landing page style will be a matter of seconds.
+
+## Creating A Facebook Campaign
+
+Now that you have a nice landing page. it is time for Facebook Ads.  
+In order to create a campaign on facebook. You need to have a facebook page of course. use an existing page or create a new one if you like.
+
+but first things first. Are you promoting an Image+Text (post style) or a video ?
+
+**Video Creatives**
+
+if you are going to use a video. you have to follow facebook guides and they are very challenging. also You have a small duration before the user can click "Skip video".
+
+in this short duration you have to catch the user attention so he does not just skip your ads. (like you and i do all the time )
+
+i can not tell you a lot more about this. because i tried it only once and failed. i use YouTube when i want to run video ads.
+
+**Image Creatives**
+
+Illustration images are the best. just take yourself as an example. you are scrolling your feed. what images Stop you ? the ones with Click Bait circles and images that are intriguing somehow.
+
+The image i used before in my example is actually a nice one that worked in the past. a nice Scroll Stopper.
+
+prepare your images and use whatever resolution facebook requires.
+
+Facebook ad images have a recommended resolution of 1,200 x 1,200 pixels for News Feed, Right Column, Instant Articles, Marketplace, Native Ads, and Sponsored Messages.
+
+**Headlines and Primary Text**
+
+Do not underestimate the power of the headline. as i stated before we use the image to catch the attention. and the title to make the user click on our ad.
+
+Create more than one ad per campaign. use facebook A/B testing to see what images/text combo gets you more clicks
+
+> creating ads on facebook is really easy if you prepared your images and headlines already. they have a user friendly UI and very interactive.
+
+## My Experience On FaceBook With ClickBank.
+
+I haven't done a "how to create a facebook ad" because it's simply adding images, add text and click next.
+
+Also it changes from time to time. so it'll eventually be outdated.
+
+What i want you to focus on and not fall for the same mistakes is the following.
+
+- **Know Your Audience**
+
+No matter what kind of marketing strategy you have, you shouldn’t begin any process before you get to know who your target audience is.
+
+This is what’s either going to make or break your campaign, let's take an example.
+
+say you are running a campaign for an anti-aging moisturizer. You believe in this product from the bottom of your heart, and it’s just perfect.
+
+![Audience Targeting](./audience-is-key.jpg)
+
+You start advertising your product to everyone—all ages, genders, locations, etc.
+
+Now it’s the end of the month, and you’ve made only two sales. This is the point where you start thinking to yourself
+
+what could have possibly gone wrong?
+
+The truth is, you were so blinded by how the product turned out that you failed to realize that not everyone needs it.
+
+Your Facebook ads were reaching 22-year-old boys from Michigan who didn’t spend a split second looking at your product. All of that, only because you didn’t target your audience properly.
+
+- **Target Only Your Audience**
+
+  - How old is my buyer ?
+  - Where do they live?
+  - What do they do for a living?
+  - Do they have a stable income?
+  - Are they in a committed relationship?
+  - does my product solve a problem the have?
+  - Why would they refrain from buying this product?
+
+once you have answered all these questions you are ready to narrow your audience to the right buyers.
+
+- **Add an an emotional Side**
+
+No matter what you are selling , you need to take your customers on an emotional rollercoaster.
+
+Remember that it’s always an emotion that sells the product and not a plain product description.
