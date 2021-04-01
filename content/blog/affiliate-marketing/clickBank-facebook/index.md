@@ -355,3 +355,25 @@ once you have answered all these questions you are ready to narrow your audience
 No matter what you are selling , you need to take your customers on an emotional rollercoaster.
 
 Remember that it’s always an emotion that sells the product and not a plain product description.
+
+- **Add Legal Pages On The Lander**
+
+Facebook requires you to add a Privacy policy on your landing page. telling people what's going on with third party cookies and data collection.
+
+If you are promoting a health related product. you need to provide an FDA Disclaimer. it's just 3 or 4 lines you can find on google. and put on the bottom of your page.
+
+Terms of services are always nice to add too. it makes your page look legit. and covers you too. google Terms of Services and add them.
+
+## Conclusion
+
+Facebook Ads is an excellent platform to grow your affiliate income. ClickBank offers seem hard to run on Facebook in the beginning. but once your build your landing page. everything start working.
+
+To recap, if you want to be successful with Facebook affiliate marketing, you need to do the following:
+
+- Carefully pick a product following the 4 steps above.
+  – Build a Landing page using a type that suits your offer.
+- Prepare your images and headlines.
+- **Study Your Audience** most important step
+- Create an A/B testing campaign for your variations.
+- Read data after 3 days. see what works and whats costing you money
+- Learn from your mistakes. and always pretend you're a customer. and run through your ad and lander
