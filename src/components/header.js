@@ -1,9 +1,9 @@
-import React /* , { useState } */ from "react"
-import { Link } from "gatsby"
+import React, { useState } from "react"
+import { Link, useStaticQuery } from "gatsby"
 import "./header.css"
 
 const Header = () => {
-  /*  const data = useStaticQuery(graphql`
+  const data = useStaticQuery(graphql`
     query HeaderQuery {
       logo: file(absolutePath: { regex: "/logo.png/" }) {
         childImageSharp {
@@ -25,21 +25,20 @@ const Header = () => {
         }
       }
     }
-  `) */
+  `)
 
-  /*   const [expanded, toggleExpanded] = useState(false)
-   */ //const logo = data?.logo?.childImageSharp?.fixed
+  const [expanded, toggleExpanded] = useState(false)
+  const logo = data?.logo?.childImageSharp?.fixed
   return (
     <header id="header" role="banner">
       <div className="inner" role="navigation">
         <div className="site-logo">
           <Link className="url" to="/">
-            {" "}
-            Digital Income
+            DigIncome
           </Link>
         </div>
-        <p className="nav-list">Digs  For Digital Income Gigs</p>
-        {/* <nav role="navigation">
+        <p className="slogan">Digital Income Gigs</p>
+        <nav role="navigation">
           <ul className="nav-list">
             <li className="nav-item">
               <Link to="/affiliate-marketing">Affiliate Marketing</Link>
@@ -82,7 +81,7 @@ const Header = () => {
               <Link to="/trading">Day Trading</Link>
             </li>
           </ul>
-        </nav> */}
+        </nav>
       </div>
     </header>
   )

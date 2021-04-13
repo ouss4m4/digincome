@@ -111,7 +111,7 @@ export default function Footer() {
               }
               round={true}
               shareUrl={"https://digincome.com"}
-              title={"Digital Income"}
+              title={"DigIncome"}
             />
           </div>
         </div>

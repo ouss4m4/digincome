@@ -4,7 +4,7 @@ date: "2021-03-27T18:00"
 description: "Finding a niche can be one of the most challenging step when starting affiliate marketing. in this article we'll see how to pick a niche and monetize it"
 category: Affiliate marketing
 heroimage: find-profitable-niche.jpg
-keywords: "Affiliate Marketing,Digital Marketing,Passive Income,Digital Income,Affiliate"
+keywords: "Affiliate Marketing,Digital Marketing,Passive Income,DigIncome,Affiliate"
 ---
 
 When starting affiliate marketing. jumping between different niches is the first mistake beginners fall for. you will end up losing money on testing funnels each time you switch to a different topic.
