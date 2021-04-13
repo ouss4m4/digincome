@@ -4,7 +4,7 @@ date: "2021-03-20T17:00"
 description: "Affiliate marketing is one way of making money by advertising products or services of others. You are rewarded if you help the company make a sale -a conversion- . You will not be paid if you do not make a sale."
 category: Affiliate marketing
 heroimage: affiliate-hero-image.png
-keywords: "Affiliate Marketing,Digital Marketing,Passive Income,Digital Income,Affiliate"
+keywords: "Affiliate Marketing,Digital Marketing,Passive Income,DigIncome,Affiliate"
 ---
 
 ![Introduction To Affiliate Marketing](./affiliate-hero-image.png)
