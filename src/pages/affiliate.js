@@ -3,11 +3,11 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const AffiliatePolicy = ({ location }) => (
-  <Layout location={location} title="Digital Income Affiliate Policy">
+  <Layout location={location} title="DigIncome Affiliate Policy">
     <SEO title="Affiliate Policy" />
     <h2 id="affiliate-policy">AFFILIATE POLICY</h2>
     <p>
-      Occasionally on Digital Income websites you’ll find links to buy products
+      Occasionally on DigIncome websites you’ll find links to buy products
       from other partners. If you click on these links, you’ll find that the URL
       includes a small extra piece of text which identifies that the click came
       from our website. This text is an affiliate code, and it means that we get

@@ -1,7 +1,7 @@
 ---
 title: How to create an NFT ? NFT Minting
 date: "2021-03-11T23:00:00"
-description: "Thanks to the internet, an artist can upload, share, and get thousands of likes for a digital artwork, We want to live in a world where digital creators have solid options for monetizing their incredible work, That's why Digital Income will cover everything about NFTs"
+description: "Thanks to the internet, an artist can upload, share, and get thousands of likes for a digital artwork, We want to live in a world where digital creators have solid options for monetizing their incredible work, That's why DigIncome will cover everything about NFTs"
 category: "nft"
 heroimage: mintable-logo.png
 keywords: "NFT,mintable,create nft,mint,nfts,what are nfts,what nft,non fungible tokens,crypto art,cryptokitties,cryptopunks,openseea,nifty"

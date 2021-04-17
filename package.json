@@ -1,7 +1,7 @@
 {
   "name": "digital-income",
   "private": true,
-  "description": "Digital Income",
+  "description": "DigIncome",
   "version": "0.1.0",
   "dependencies": {
     "gatsby": "^2.32.8",

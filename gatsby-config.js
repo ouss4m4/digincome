@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Digital Income`,
+    title: `DigIncome`,
     author: {
-      name: `Digital Income`,
+      name: `DigIncome`,
       summary: `Financial Freedom should be your Goal. Passive income should be your Path. Digital Marketing is your guide`,
     },
     description: `be it eCommerce, Affiliate Marketing, or Day Trading. We Got you covered with Guides, Tips and Tricks to start earning as soon as possible. Pick your favorite niche and Start building your digital career now .`,
