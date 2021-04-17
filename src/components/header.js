@@ -43,9 +43,9 @@ const Header = () => {
             <li className="nav-item">
               <Link to="/affiliate-marketing">Affiliate Marketing</Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link to="/ecommerce">eCommerce</Link>
-            </li>
+            </li> */}
             <li className="nav-item">
               <Link to="/trading">Day Trading</Link>
             </li>
@@ -74,12 +74,12 @@ const Header = () => {
             <li className="nav-item-second">
               <Link to="/affiliate-marketing">Affiliate Marketing</Link>
             </li>
-            <li className="nav-item-second">
+            {/* <li className="nav-item-second">
               <Link to="/ecommerce">eCommerce</Link>
-            </li>
-            <li className="nav-item-second">
-              <Link to="/trading">Day Trading</Link>
-            </li>
+            </li> */}
+            <Link to="/trading">
+              Day Trading
+            </Link>
           </ul>
         </nav>
       </div>
